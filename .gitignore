@@ -1,4 +1,3 @@
-
 *.o
 *.xml
 *.iml
@@ -9,3 +8,6 @@
 *.bin
 *.xml
 *.lock
+
+rust000abc/target
+rust000abc/Cargo.toml
