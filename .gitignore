@@ -1,0 +1,11 @@
+
+*.o
+*.xml
+*.iml
+*.timestamp
+*.exe
+*.d
+*.pdb
+*.bin
+*.xml
+*.lock
