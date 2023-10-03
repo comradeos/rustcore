@@ -11,3 +11,4 @@
 
 rust000abc/target
 rust000abc/Cargo.toml
+*.rlib
